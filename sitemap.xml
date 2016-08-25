@@ -3,8 +3,38 @@
   
   <url>
     <loc>http://www.zybiji.cc/</loc>
-    <lastmod>2016-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2016-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082501.html</loc>
+    <lastmod>2016-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082401.html</loc>
+    <lastmod>2016-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082303.html</loc>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082304.html</loc>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082302.html</loc>
+    <lastmod>2016-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/zy/suwen/zy2016082301.html</loc>
+    <lastmod>2016-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,12 +113,12 @@
   </url>
   
   <url>
-    <loc>http://www.zybiji.cc/jl/jl2015091002.html</loc>
+    <loc>http://www.zybiji.cc/jl/jl2015091001.html</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.zybiji.cc/jl/jl2015091001.html</loc>
+    <loc>http://www.zybiji.cc/jl/jl2015091002.html</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,22 +128,22 @@
   </url>
   
   <url>
-    <loc>http://www.zybiji.cc/ys/ys2015080701.html</loc>
-    <lastmod>2015-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.zybiji.cc/ys/ys2015080702.html</loc>
     <lastmod>2015-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.zybiji.cc/ys/ys2015080301.html</loc>
-    <lastmod>2015-08-03T00:00:00+00:00</lastmod>
+    <loc>http://www.zybiji.cc/ys/ys2015080701.html</loc>
+    <lastmod>2015-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.zybiji.cc/jl/jl2015081301.html</loc>
+    <lastmod>2015-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.zybiji.cc/ys/ys2015080301.html</loc>
     <lastmod>2015-08-03T00:00:00+00:00</lastmod>
   </url>
   
